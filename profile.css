@@ -2,6 +2,7 @@
 .namec {
   font-family: "Montserrat", sans-serif;
   font-size: 3rem;
+  text-align: center;
 }
 
 .namep {
@@ -28,7 +29,7 @@
 #Navbar {
   background-color: #b8b5ff;
   font-weight: bold;
-  padding-left: 10px;
+  
 }
 
 
