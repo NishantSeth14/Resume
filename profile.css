@@ -1,5 +1,8 @@
-.navbar-brand{
-  
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
 }
 
 .typewriter{
@@ -54,6 +57,13 @@
   background-color: #34B3F1;
   text-align: center;
   padding: 100px;
+}
+
+.carousel{
+  text-align: center;
+  background-color: #34B3F1;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #Skills{
@@ -128,8 +138,8 @@
   font-size: 2.5rem;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  padding-top: 50px;
-  padding-bottom: 20px;
+  padding-top: 70px;
+
   align-self: center;
   text-decoration: b;
 }
@@ -152,9 +162,8 @@
 
 
 .testimonial-image{
-  width: 15%;
-  border-radius: 100%;
-  margin: 20px;
+  
+  
 }
 .carousel-item{
   padding: 5% 15%;
